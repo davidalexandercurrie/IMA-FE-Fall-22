@@ -112,7 +112,7 @@ By the end of the course, students will be able to:
   * More Javascript
   * Javscript + Dom Manipulation
 * Week 10
-  * jQuery
+  * ~~jQuery~~
   * Data with Public APIs
 * Week 11
   * Review APIs
