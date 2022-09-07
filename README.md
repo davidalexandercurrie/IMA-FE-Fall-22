@@ -213,9 +213,6 @@ You can find the official academic calendar [here](https://www.nyu.edu/registrar
 
 **Wednesday, September 14, 2022**  - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Fall 2022 classes and not receive a grade of 'W.' Last day of active wait lists. Last day to add/drop on Albert.
 
-**Tuesday, December 14** - Last day of Fall 2022 Classes
-
-
 ##  Additional Notes
 
 **Statement of Academic Integrity** Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else. More information can be found on [Tisch’s page regarding Academic Integrity](http://tisch.nyu.edu/faculty/academic-integ).
