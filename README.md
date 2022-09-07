@@ -83,7 +83,7 @@ By the end of the course, students will be able to:
 * Using Public Data via APIs
 
 ### Schedule
-*Please note this is subject to change once students' exprience is guaged*
+*Please note this is subject to change once students' experience is guaged*
 
 * Week 1
   * Introductions
