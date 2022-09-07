@@ -26,8 +26,8 @@ To contact our GA, Adnan Aga: on Discord ?, email aa8668@nyu.edu
 NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet for office hours. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
 Office hours are by appointment only. 
- * You may set up an appointment with David Here [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). 
-* You may set up an appointment with Mingxi Here [here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUNEWHlPa0VabXphfGRlZmF1bHR8M2Y4YzE3YTE3N2Q3MTY1ZjNkMTVkYWNiMDkyZTYyNTg).
+ * You may set up an appointment with David Here [here.](). 
+* You may set up an appointment with Adnan Here [here.]().
 
 
 ## A note about this syllabus
