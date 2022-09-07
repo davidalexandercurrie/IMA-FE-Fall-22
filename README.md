@@ -211,11 +211,9 @@ Performance and attendance of the student has been such that course requirements
 
 You can find the official academic calendar [here](https://www.nyu.edu/registrar/calendars/university-academic-calendar.html#1184)
 
-**Tuesday, September 15, 2020**  - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Spring 2019 classes and not receive a grade of 'W.' Last day of active waitlists. Last day to add/drop on Albert.
+**Wednesday, September 14, 2022**  - Last day to drop a class and receive a refund of 100% of tuition & fees for Undergraduate, Graduate and Diploma students who are dropping classes, but will remain enrolled in at least one course. For Undergraduate, Graduate and Diploma students who 'Completely Withdraw' from ALL courses during the semester, please see the Refund Schedule for Complete Withdrawal. Last day to drop Fall 2022 classes and not receive a grade of 'W.' Last day of active wait lists. Last day to add/drop on Albert.
 
-**Monday, December 6, 2020** - Last day to use the Term Withdrawal Form to submit a spring semester term withdrawal request or submit a request to withdraw from a course. Students should consult the academic calendar of their home school for specific deadlines pertaining to course withdrawal for the term
-
-**Tuesday, December 14** - Last day of Fall 2020 Classes
+**Tuesday, December 14** - Last day of Fall 2022 Classes
 
 
 ##  Additional Notes
