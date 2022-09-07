@@ -21,12 +21,4 @@ Post to Discord in the #learning-logs channel for this course. Begin message wit
 
 # Learning Log Presentation Schedule
 
-  * Chris & Damon 10/5
-  * Duorfan & Mingren 10/26
-  * Samantha & Yeji 11/2
-  * Angela & Lucy - 11/9
-  * Jiaxi & Orriz - 11/16
-  * Qashka &  Sarah - 11/23
-  * Ricky & QiQi - 11/30
-  * Thomas & Aite 12/7
 
