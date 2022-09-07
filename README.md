@@ -6,25 +6,27 @@
 
 **Tisch School of the Arts at New York University**
 
-**Fall 2021 – Professor Calli Higgins, GA Mingxi Xu**
+**Fall 2021 – Course Instructor David Currie, GA Adnan Aga**
 
-Tuesday + Thursday 5:05 - 6:35 at IMA, Room 412
+Monday + Wednesday 5:20 - 6:50 at IMA, Room 411
 
-[Link to Zoom meeting](https://nyu.zoom.us/s/96532783102)
+[Link to Zoom meeting](https://nyu.zoom.us/j/99640649956)
 
-[Link to join our Discord server](https://discord.gg/b8bJzCqy)
+Join our Discord Server! I will email the link!
 
-[Link to NYU Brightspace site](https://brightspace.nyu.edu/d2l/le/lessons/134679/units/5767057)
+<!-- [Link to NYU Brightspace site](https://brightspace.nyu.edu/d2l/le/lessons/134679/units/5767057) -->
 
-To contact professor: on Discord @calli, email calli@nyu.edu
+Brightspace TBC
 
-To contact our GA, Mingxi: on Discord @Mingxi, email mx657@nyu.edu
+To contact instructor: on Discord @dvdlxndr, email davidcurrie@nyu.edu
+
+To contact our GA, Adnan Aga: on Discord ?, email aa8668@nyu.edu 
 
 
 NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet for office hours. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
 Office hours are by appointment only. 
- * You may set up an appointment with Calli Here [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). *Please note, the appointments visually appear to be 30 minute time slots but are actually for 15 minutes. Feel free to book two if you think you need the extra time.* 
+ * You may set up an appointment with David Here [here.](https://calendar.google.com/calendar/selfsched?sstoken=UUtmcjc1d2lnWE9xfGRlZmF1bHR8YWQyNmFhNWIxNTc3M2NiNWRmOWE2NDM1MTM0ODE5NTU). 
 * You may set up an appointment with Mingxi Here [here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUNEWHlPa0VabXphfGRlZmF1bHR8M2Y4YzE3YTE3N2Q3MTY1ZjNkMTVkYWNiMDkyZTYyNTg).
 
 
@@ -131,7 +133,7 @@ By the end of the course, students will be able to:
 * Developer Tools for Chrome or Firefox
   * Firebug for Firefox, http://getfirebug.com or
   * Chrome Developer Tools, https://developers.google.com/chrome-developer-tools 
-* HTML Text Editor (Visual Studio Code, Atom, Brackets.io, etc)
+* HTML Text Editor (Visual Studio Code or any one that you prefer)
 * Web Server Space
 	* We will be using Github Pages to host your websites, but you are welcome to purchase your own server space as well.
 
