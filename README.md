@@ -14,7 +14,7 @@ Monday + Wednesday 5:20 - 6:50 at IMA, Room 411
 
 Join our Discord Server! I will email the link!
 
-<!-- [Link to NYU Brightspace site](https://brightspace.nyu.edu/d2l/le/lessons/134679/units/5767057) -->
+[Link to NYU Brightspace site]() tbc
 
 Brightspace TBC
 
@@ -26,12 +26,12 @@ To contact our GA, Adnan Aga: on Discord ?, email aa8668@nyu.edu
 NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet for office hours. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
 
 Office hours are by appointment only. 
- * You may set up an appointment with David Here [here.](). 
-* You may set up an appointment with Adnan Here [here.]().
+* You may set up an appointment with David Here [here](). 
+* You may set up an appointment with Adnan Here [here]().
 
 
 ## A note about this syllabus
-This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Slack) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
+This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Discord) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
 
 ## Course Pre-requisites
 

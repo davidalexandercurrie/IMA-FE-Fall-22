@@ -15,12 +15,12 @@
   
 * What is Web Development?
 
-* [Slides from today](https://docs.google.com/presentation/d/1XoCF8HryqM0tICKe4zDgHKr-w6zcJG6_GoGQQ5MVYjA/edit?usp=sharing)
+* [Slides from today](https://docs.google.com/presentation/d/10VFg_ROCKT7W-9iofaCbFDYbIpyv3bWpCVTgHIJlYwc/edit?usp=sharing)
   
 
 ### Homework: 
 
-1. For Tuesday: Let's get inspired! Start finding creative portfolios, cool interactive experiences, or perfectly polished websites- whatever makes you excited about learning front end development. Be prepared to give a 2-3 min presentation to the class on the work that you found (do some research into its origins) and why you're interested in it.
+1. For Monday: Let's get inspired! Start finding creative portfolios, cool interactive experiences, or perfectly polished websites- whatever makes you excited about learning front end development. Be prepared to give a 2-3 min presentation to the class on the work that you found (do some research into its origins) and why you're interested in it.
 2. Complete a Learning Log this week that will help you begin to learn the introductory concepts of HTML and CSS
 * [Khan Academy - Intro to HTML/CSS: Making Webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 * [HTML Dog](https://htmldog.com/)
