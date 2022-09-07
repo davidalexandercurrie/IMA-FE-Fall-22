@@ -16,11 +16,9 @@ Join our Discord Server! I will email the link!
 
 [Link to NYU Brightspace site]() tbc
 
-Brightspace TBC
-
 To contact instructor: on Discord @dvdlxndr, email davidcurrie@nyu.edu
 
-To contact our GA, Adnan Aga: on Discord ?, email aa8668@nyu.edu 
+To contact our GA, Adnan Aga: on Discord @adnanaga, email aa8668@nyu.edu 
 
 
 NOTE: The preferred communication tool for this course is Discord. You may direct message me short questions and/or code snippets. If you find yourself needing to write long paragraphs, that is an indication you should be setting up an appointment to meet for office hours. Email should be used in instances where you may need to cc someone outside of our class or administrative NYU business related to grades, etc.
@@ -83,7 +81,7 @@ By the end of the course, students will be able to:
 * Using Public Data via APIs
 
 ### Schedule
-*Please note this is subject to change once students' experience is guaged*
+*Please note this is subject to change once students' experience is gauged*
 
 * Week 1
   * Introductions
