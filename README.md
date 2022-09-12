@@ -14,7 +14,7 @@ Monday + Wednesday 5:20 - 6:50 at IMA, Room 411
 
 Join our Discord Server! I will email the link!
 
-[Link to NYU Brightspace site]() tbc
+[Link to NYU Brightspace site]() (will be updated)
 
 To contact instructor: on Discord @dvdlxndr, email davidcurrie@nyu.edu
 
@@ -25,7 +25,7 @@ NOTE: The preferred communication tool for this course is Discord. You may direc
 
 Office hours are by appointment only. 
 * You may set up an appointment with David Here [here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UVBqVXN4d0N5ZDMyfGRlZmF1bHR8NDU2ZmVlOTI3NTJiYTNhZDE5YTY1MzI4MDViODAyNWM). 
-* You may set up an appointment with Adnan Here [here]().
+* You may set up an appointment with Adnan Here [here](https://calendar.app.google/LWNZPPXvRm6sChb76).
 
 
 ## A note about this syllabus
