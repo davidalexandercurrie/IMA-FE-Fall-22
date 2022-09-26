@@ -18,7 +18,7 @@
         * A wirefame of your home page
         * A mood board of images, inspirations, color palette, etc. that demonstrate the look and feel
         * A basic sitemap
-        * REMEMBER: Your midterms are due October 19th and will be presented in class on October 17Gth and October 19st
+        * REMEMBER: Your midterms are due October 19th and will be presented in class on October 17th and October 19st
 
 * Learning Log suggestions for this week:
     * [CSS box model](https://css-tricks.com/the-css-box-model/)
