@@ -1,0 +1,15 @@
+.flex-container {
+    display: flex;
+    background: pink;
+}
+
+.flex-item {
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    color: white;
+    font-size: 45px;
+    text-align: center;
+    font-family: sans-serif;
+}
