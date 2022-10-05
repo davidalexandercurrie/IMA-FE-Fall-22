@@ -47,5 +47,9 @@
 * *Due Wednesday 10/12* Take your Craigslist redesign HTML & CSS assignment and create three breakpoints. Include one for small screens, medium screens and large screens. Push to Github and publish this on Github Pages. Submit BOTH the link to your repository and Github Pages link on Discord
 
 * Everyone must book at least one office hour appointment with either David or Adnan
-Be ready to explain your plan for making your midterm. 
-List all the steps
+Be ready to explain your plan for making your midterm project. 
+List all the steps that will be required to make your project.
+List the things you know how to do already and the things you still don't know how to do.
+Give a timeline of how you will complete all steps required.
+
+
