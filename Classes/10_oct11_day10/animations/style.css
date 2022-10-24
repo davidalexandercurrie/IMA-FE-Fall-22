@@ -27,8 +27,7 @@
   position: relative;
   animation-name: animateColorAndPosition;
   animation-duration: 2s;
-  animation-iteration-count: 2;
-  animation-fill-mode: forwards;
+  animation-iteration-count: 5;
 }
 
 @keyframes animateColorAndPosition {
