@@ -1,23 +1,21 @@
 const app = {
-
   newTextColor: 'white',
 
   initialize: function () {
-
     document.getElementById('bgColor').addEventListener('click', () => {
-      this.changeBackgroundColor()
+      this.changeBackgroundColor();
     });
 
     document.getElementById('textColor').addEventListener('click', () => {
-      app.changeTextColor()
+      app.changeTextColor();
     });
   },
 
-  changeBackgroundColor: function() {
+  changeBackgroundColor: function () {
     document.body.classList.add('redBackground');
   },
 
-  changeTextColor: function() {
+  changeTextColor: function () {
     document.body.style.color = this.newTextColor;
-  }
-}
+  },
+};
