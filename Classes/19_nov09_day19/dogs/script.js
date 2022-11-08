@@ -1,6 +1,6 @@
 const app = {
   initialize: () => {
-   app.fetchDoggie();
+    app.fetchDoggie();
   },
 
   fetchDoggie: () => {
@@ -11,6 +11,7 @@ const app = {
   },
 
   populateDoggie: response => {
-    $('#doggie').attr('src', response.message);
+    // $('#doggie').attr('src', response.message);
+    document.getElementById('doggie').src = response.message;
   },
-}
+};
