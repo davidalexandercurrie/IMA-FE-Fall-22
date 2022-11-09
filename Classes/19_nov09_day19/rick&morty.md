@@ -1,7 +1,7 @@
 - create a button that when pressed get a random character from the rick and morty api
 https://rickandmortyapi.com/documentation
 
-hint: https://rickandmortyapi.com/api/character/${Math.floor(Math.random() * 826)
+hint: `https://rickandmortyapi.com/api/character/${Math.floor(Math.random() * 826)}`
 
 - display the name and and image of the character on the screen
 - create three buttons... Alive Dead Unknown
