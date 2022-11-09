@@ -1,4 +1,4 @@
-* jQuery questions?
+
 * [Immediately Invoked Function Expression](https://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript)
   * [Wow this is a whole thing!](https://stackoverflow.com/questions/9899372/pure-javascript-equivalent-of-jquerys-ready-how-to-call-a-function-when-t)
 * API's!
@@ -18,6 +18,6 @@
 ## Homework
 
 * [Read more about API's](https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work)
-* Create a webpage that uses [this API](https://dog.ceo/api/breeds/image/random) to show a random image of a dog. Upload to brightspace.
 
-* *For Thursday, November 18*: Prepare a presesntation for your Final Project idea. Your presentation should be shareable as a PDF and include a moodboard, site map, and wireframes. The final assignment is similar to the midterm in that you are expected to have a complete idea and a reason for why you want to make this. You are responsible for making a web application that is thoughtfully designed and built for a responsive experience and utitlizes at least one API to populate data or introduce a service to your app. This API can be from a content management system (CMS) powering a personal portfolio. You are allowed to continue work on your midterm project (but I expect to see a significant update) or pivot to a new idea. 
+
+* *For Wednesday, November 16*: Prepare a presesntation for your Final Project idea. Your presentation should be shareable and include a moodboard, site map, and wireframes. The final assignment is similar to the midterm in that you are expected to have a complete idea and a reason for why you want to make this. You are responsible for making a web application that is thoughtfully designed and built for a responsive experience and utitlizes at least one API to populate data or introduce a service to your app. This API can be from a content management system (CMS) powering a personal portfolio. You are allowed to continue work on your midterm project (but I expect to see a significant update) or pivot to a new idea. 
