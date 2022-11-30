@@ -1,5 +1,5 @@
-var client_id = '340613412d254d5ab2b5be2baab2a5b3';
-var client_secret = 'e8569331e2cb4c268e98b9ebe4377db7';
+var client_id = 'id';
+var client_secret = 'secret';
 
 //this base encodes your id and secret to pass to the spotify server
 var encoded = btoa(client_id + ':' + client_secret);

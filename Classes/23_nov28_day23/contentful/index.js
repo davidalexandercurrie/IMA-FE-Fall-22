@@ -9,6 +9,7 @@ client.getEntries().then(entries => {
   let blog = document.getElementById('blog');
 
   entries.items.forEach(entry => {
+    console.log(entry.fields.body);
     let converter = new showdown.Converter();
     let text = entry.fields.body;
     let body = converter.makeHtml(text);
