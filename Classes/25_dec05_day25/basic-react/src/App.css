@@ -1,0 +1,27 @@
+img {
+  width: 320px;
+  height: 480px;
+  margin: 2em;
+  align-self: center;
+  max-width: 100%;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 2em;
+}
+.card {
+  width: 25%;
+  border: 2px solid black;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+}
+.card h1 {
+  text-align: center;
+}
+.title {
+  font-size: 4em;
+  text-align: center;
+}
