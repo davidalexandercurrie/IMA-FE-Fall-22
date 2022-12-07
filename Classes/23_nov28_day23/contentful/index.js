@@ -5,11 +5,11 @@ var client = contentful.createClient({
 
 client.getEntries().then(entries => {
   // log the title for all the entries that have it
-
+  console.log(entries);
   let blog = document.getElementById('blog');
 
   entries.items.forEach(entry => {
-    console.log(entry.fields.body);
+    // console.log(entry.fields.body);
     let converter = new showdown.Converter();
     let text = entry.fields.body;
     let body = converter.makeHtml(text);
@@ -21,30 +21,3 @@ client.getEntries().then(entries => {
     blog.innerHTML += html;
   });
 });
-
-// function renderHTML(entry) {
-//   console.log(entry);
-//   let title = document.createElement('h1');
-//   title.textContent = entry.fields.title;
-//   title.classList.add('blog-title');
-//   blog.append(title);
-
-//   let image = document.createElement('img');
-//   image.src = entry.fields.image.fields.file.url;
-//   image.classList.add('blog-image');
-//   blog.append(image);
-
-//   if (entry.fields.images) {
-//     entry.fields.images.forEach(item => {
-//       let image = document.createElement('img');
-//       image.src = item.fields.file.url;
-//       image.classList.add('blog-image');
-//       blog.append(image);
-//     });
-//   }
-
-//   // render the body text
-//   let content = document.createElement('p');
-//   content.textContent = entry.fields.body;
-//   blog.append(content);
-// }
